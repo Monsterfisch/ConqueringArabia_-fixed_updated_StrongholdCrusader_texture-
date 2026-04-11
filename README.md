@@ -1,4 +1,4 @@
-![ConqueringArabia](https://raw.githubusercontent.com/Monsterfisch/ConqueringArabia_[fixedupdated_StrongholdCrusader_texture]-/refs/heads/main/image.png)
+![ConqueringArabia](https://github.com/Monsterfisch/ConqueringArabia_-fixed_updated_StrongholdCrusader_texture-/blob/main/image.png)
 
 A Stronghold Crusader based texture edit with various fixes.
 
