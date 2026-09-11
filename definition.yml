@@ -7,8 +7,3 @@ dependencies:
   frontend: ">=1.0.9"
 tags:
 - textures
-capabilities:
-  files: true
-  code: true
-  configuration: false
-  options: false
