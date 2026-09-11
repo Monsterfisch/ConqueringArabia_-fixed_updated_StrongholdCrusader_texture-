@@ -1,7 +1,14 @@
 name: ConqueringArabia
 author: Monsterfish_
-version: 1.0.3
+version: 1.0.4
 dependencies:
   files: ^1.2.0
   framework: ">=3.0.5"
   frontend: ">=1.0.9"
+tags:
+- textures
+capabilities:
+  files: true
+  code: true
+  configuration: false
+  options: false
