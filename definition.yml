@@ -1,7 +1,16 @@
 name: ConqueringArabia
 author: Monsterfish_
-version: 1.0.3
+version: 1.0.4
 dependencies:
   files: ^1.2.0
-  framework: ">=3.0.5"
-  frontend: ">=1.0.9"
+  framework: '>=3.0.5'
+  frontend: '>=1.0.9'
+tags:
+- textures
+display-name: Conquering Arabia
+type: plugin
+meta:
+  version: 1.0.0
+game:
+- SHC==1.41
+- SHCE==1.41
