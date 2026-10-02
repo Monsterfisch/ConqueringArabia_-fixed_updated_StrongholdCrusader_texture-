@@ -10,4 +10,4 @@ Credits go to:
 - Firefly for the original files
 - Heroesflorian for feedback and nörgeln
 - Krarilotus for assisting with the publishing
-- Lord Hienelfudda for the persuasion	
+- Lord Hienelfudda for the persuasion
